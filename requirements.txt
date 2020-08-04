@@ -1,0 +1,12 @@
+beautifulsoup4==4.9.1
+btdht==0.3.3
+certifi==2020.4.5.1
+chardet==3.0.4
+datrie==0.8.2
+idna==2.9
+netaddr==0.8.0
+requests==2.23.0
+six==1.15.0
+soupsieve==2.0.1
+urllib3==1.25.9
+wincertstore==0.2
